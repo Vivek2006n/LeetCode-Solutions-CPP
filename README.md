@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0283-move-zeroes) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
