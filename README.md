@@ -60,6 +60,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0724-find-pivot-index) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1991-find-the-middle-index-in-array) |
+## String
+|  |
+| ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
