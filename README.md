@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1991-find-the-middle-index-in-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
