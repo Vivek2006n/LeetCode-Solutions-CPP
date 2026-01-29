@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0303-range-sum-query-immutable) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 ## Design
 |  |
