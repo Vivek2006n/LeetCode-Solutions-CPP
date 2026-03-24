@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1732-find-the-highest-altitude) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1920-build-array-from-permutation) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
