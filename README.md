@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Design
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1652-defuse-the-bomb) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
