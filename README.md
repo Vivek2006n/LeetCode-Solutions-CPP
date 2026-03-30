@@ -99,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
