@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0876-middle-of-the-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0876-middle-of-the-linked-list) |
