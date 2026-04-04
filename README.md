@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -107,10 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
