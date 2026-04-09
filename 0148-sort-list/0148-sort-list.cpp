@@ -19,12 +19,10 @@ public:
          }
          sort(arr.begin(),arr.end());
          temp = head;
-         while(temp!=NULL){
             for(int i=0;i<arr.size();i++){
                   temp->val = arr[i];
                   temp = temp->next;
             }
-         }
          return head;
     }
 };
