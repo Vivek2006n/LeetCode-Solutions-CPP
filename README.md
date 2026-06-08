@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0148-sort-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0148-sort-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
