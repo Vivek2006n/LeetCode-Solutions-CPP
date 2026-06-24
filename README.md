@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3612-process-string-with-special-operations-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1652-defuse-the-bomb) |
 ## Greedy
 |  |
