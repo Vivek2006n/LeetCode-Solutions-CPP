@@ -7,8 +7,9 @@ public:
 
         for(int i=0;i<k;i++){
             windowSum += arr[i];
-            avg = windowSum/k;
         }
+        avg = windowSum/k;
+
         if(avg>=threshold){
             count++;
         }
@@ -16,6 +17,7 @@ public:
         for(int i=k;i<arr.size();i++){
             windowSum += arr[i];
             windowSum -= arr[i-k];
+            
             avg = windowSum/k;
 
             if(avg>=threshold){
