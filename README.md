@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
