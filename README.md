@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1480-running-sum-of-1d-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1652-defuse-the-bomb) |
