@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1480-running-sum-of-1d-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -185,4 +187,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
