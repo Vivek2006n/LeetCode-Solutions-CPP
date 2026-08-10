@@ -7,9 +7,6 @@ public:
                 left++;
                 nums[left] = nums[i];
             }
-            else{
-                continue;
-            }
         }
         return left+1;
     }
