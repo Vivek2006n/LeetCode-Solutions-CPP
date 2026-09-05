@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0160-intersection-of-two-linked-lists) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0383-ransom-note) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
