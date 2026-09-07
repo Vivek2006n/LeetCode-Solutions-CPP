@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0383-ransom-note) |
+| [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
