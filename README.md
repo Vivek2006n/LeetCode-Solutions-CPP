@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
