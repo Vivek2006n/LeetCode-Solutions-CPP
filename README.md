@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
