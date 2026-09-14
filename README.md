@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0383-ransom-note) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Number Theory
 |  |
 | ------- |
