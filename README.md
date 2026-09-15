@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0412-fizz-buzz) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3870-count-commas-in-range) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0680-valid-palindrome-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1920-build-array-from-permutation) |
 | [3612-process-string-with-special-operations-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
