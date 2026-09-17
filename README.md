@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
+| [0905-sort-array-by-parity](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0977-squares-of-a-sorted-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Design
