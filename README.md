@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3870-count-commas-in-range) |
