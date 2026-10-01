@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1672-richest-customer-wealth) |
 ## Bracket Sequences
 |  |
 | ------- |
