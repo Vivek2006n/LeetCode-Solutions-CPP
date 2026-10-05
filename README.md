@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1929-concatenation-of-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
