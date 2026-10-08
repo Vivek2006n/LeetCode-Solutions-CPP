@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0680-valid-palindrome-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
 |  |
