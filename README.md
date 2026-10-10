@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Vivek2006n/LeetCode-Solutions-CPP/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
